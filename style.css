@@ -19,6 +19,9 @@ header {
    padding: var(--space);
    text-align: center;
 }
+h1+h2{
+   font-weight: bold;
+}
 
 img {
    /* ne depasse pas la largeur du conteneur dans lequel tu est */
